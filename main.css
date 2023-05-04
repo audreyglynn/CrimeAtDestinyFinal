@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Castoro&family=Cormorant+Garamond&family=Lato&family=Playfair+Display&display=swap');
+body {
+margin: 0px;
+background-color:	#EAF2F8 ;
+}
+
+.article {
+max-width: 1300px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 0px;
+margin-bottom: 0px;
+padding-top: 0px;
+padding-bottom: 0px;
+}
+
+.final {
+margin-bottom: 1px;
+border-bottom: 1px solid;
+padding-left: 5px;
+padding-bottom: 4px;
+font-style: italic;
+color: grey;
+padding-top: 5px;
+text-align: center;
+}
+
+.syracuse {
+width: 1%;
+padding-right: 4px;
+}
+
+.story-heading {
+margin-left: auto;
+margin-right: auto;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 4px;
+}
+
+.headline {
+font-size: 50px;
+font-weight: normal;
+margin-bottom: 0px;
+font-family: 'Castoro', serif;
+margin-top: 10px;
+text-align: center;
+}
+
+.deck {
+font-size: 22px;
+font-weight: normal;
+margin-bottom: 6px;
+margin-left: 25px;
+margin-right: auto;
+margin-top: 5px;
+font-family: 'Lato', sans-serif;
+font-style: italic;
+}
+
+.image-caption {
+font-family: 'Lato', sans-serif;
+margin-top: 0px;
+color: grey;
+font-size: 13px;
+}
+
+.byline {
+font-size: 15px;
+font-family: 'Playfair Display', serif;
+text-align: center;
+}
+
+.date {
+font-style: italic;
+color: grey;
+font-size: 15px;
+text-align: center;
+}
+
+.byline a:link {
+color: black;
+}
+
+.byline a:visited {
+color: navy;
+}
+
+.byline a:hover {
+color: blue;
+}
+.image {
+width: 100%;
+}
+
+.story-body {
+font-size: 18px;
+max-width: 900px;
+font-family: 'Castoro', serif;
+padding-left: 10px;
+padding right: 10px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.story-body a:link {
+color: black;
+}
+
+.story-body a:visited {
+color: blue;
+}
+
+.story-body a:hover {
+color: navy;
+}
+
+.bottom-final {
+margin-bottom: 1px;
+border-top: 1px solid;
+padding-left: 5px;
+padding-bottom: 4px;
+font-style: italic;
+color: grey;
+padding-top: 5px;
+text-align: center;
+}
+
